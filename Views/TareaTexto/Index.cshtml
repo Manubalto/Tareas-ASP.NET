@@ -1,0 +1,31 @@
+﻿@model List<FinalASP.NET.Models.Class1>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de tareas </h2>
+
+<p>@Html.ActionLink("Crear nueva tarea","Crear",null,new { @class = "btn btn-primary" }) </p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>TareaTexto</th>
+            <th>Fecha</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.TareaTexto</td>
+                    <td>@item.Fecha</td>
+                    <td>
+                        @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-sm btn-warning" })
+                        @Html.ActionLink("Eliminar", "Delete", new { id = item.Id }, new { @class = "btn btn-sm btn-danger" })
+                    </td>
+                </tr>
+                
+            }
+    </tbody>
+</table>

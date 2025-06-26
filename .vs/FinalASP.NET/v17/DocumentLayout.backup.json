@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\logic\\tareal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:logic\\tareal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|c:\\users\\ebalt\\onedrive\\documents\\12\\finalasp.net\\dataaccess\\tareadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:dataaccess\\tareadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\controllers\\tareatextocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:controllers\\tareatextocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\views\\tareatexto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:views\\tareatexto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\views\\tareatexto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:views\\tareatexto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\views\\tareatexto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:views\\tareatexto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\views\\tareatexto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:views\\tareatexto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{734CB0F6-DDB2-470F-B34E-333DF0F10E6F}|FinalASP.NET.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\DataAccess\\TareaDAL.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TareaDAL.cs",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\DataAccess\\TareaDAL.cs",
+              "RelativeToolTip": "DataAccess\\TareaDAL.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:14:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\TareaTexto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\TareaTexto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\TareaTexto\\Delete.cshtml",
+              "RelativeToolTip": "Views\\TareaTexto\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T16:04:18.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\TareaTexto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TareaTexto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\TareaTexto\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TareaTexto\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T15:00:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\TareaTexto\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\TareaTexto\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\TareaTexto\\Crear.cshtml",
+              "RelativeToolTip": "Views\\TareaTexto\\Crear.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T17:25:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareaL.cs",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Logic\\TareaL.cs",
+              "RelativeDocumentMoniker": "Logic\\TareaL.cs",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Logic\\TareaL.cs",
+              "RelativeToolTip": "Logic\\TareaL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:12:23.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T22:40:50.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T17:45:28.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\TareaTexto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TareaTexto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Views\\TareaTexto\\Index.cshtml",
+              "RelativeToolTip": "Views\\TareaTexto\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T17:44:29.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TareaTextoController.cs",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Controllers\\TareaTextoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TareaTextoController.cs",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Controllers\\TareaTextoController.cs",
+              "RelativeToolTip": "Controllers\\TareaTextoController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:42:14.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Models\\Class1.cs",
+              "RelativeToolTip": "Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:35:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\ebalt\\OneDrive\\Documents\\12\\FinalASP.NET\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-23T17:28:06.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
